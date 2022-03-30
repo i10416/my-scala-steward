@@ -3,3 +3,4 @@
 - i10416/rules-template.g8
 - i10416/databricks-spark-rules
 - i10416/petit
+- i10416/site
