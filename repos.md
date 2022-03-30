@@ -4,3 +4,4 @@
 - i10416/databricks-spark-rules
 - i10416/petit
 - i10416/site
+- i10416/prettytable-native
