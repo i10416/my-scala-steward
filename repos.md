@@ -1,2 +1,3 @@
 - i10416/munkres
 - i10416/cssminifier
+- i10416/rules-template.g8
