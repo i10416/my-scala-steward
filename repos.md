@@ -1,6 +1,8 @@
 - i10416/munkres
 - i10416/cssminifier
 - i10416/rules-template.g8
+- i10416/fullcross.g8
+- i10416/dbc4s
 - i10416/databricks-spark-rules
 - i10416/petit
 - i10416/site
