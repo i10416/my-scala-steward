@@ -6,4 +6,3 @@
 - i10416/petit
 - i10416/site
 - i10416/prettytable-native
-- i10416/dbc4s
