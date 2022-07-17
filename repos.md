@@ -8,3 +8,5 @@
 - i10416/prettytable-native
 - i10416/slackapis
 - i10416/dbc4s
+- i10416/latex2unicode
+
